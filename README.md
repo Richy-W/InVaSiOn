@@ -1,9 +1,9 @@
 # InVaSiOn
-space invaders pygame tutorial on youtube
+Space invaders pygame tutorial on youtube.
 
-first program written to solidify basic concepts of programing with no formal training
+First program written to solidify basic concepts of programing with no formal training.
 
-the youtube video tutorial used to build this is
+The youtube video tutorial used to build this is
 https://www.youtube.com/watch?v=Q-__8Xw9KTM
 
 I do not own these assets they were taken from 
